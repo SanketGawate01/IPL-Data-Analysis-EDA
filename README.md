@@ -15,13 +15,13 @@ In this analysis, I explored the relationships between match outcomes, toss deci
 Here are some key findings from the analysis:
 
 #### **Toss Impact Analysis**
-![Toss Impact](./06_toss_impact_pie.png)
+![Toss Impact](./visualizations/06_toss_impact_pie.png)
 
 #### **Winning Margin Distribution**
-![Winning Margin](./02_winning_margin_dist.png)
+![Winning Margin](./visualizations/02_winning_margin_dist.png)
 
 #### **Team Win Trends**
-![Team Trends](./10_team_win_trends.png)
+![Team Trends](./visualizations/10_team_win_trends.png)
 
 ## 🛠️ Tools Used
 - **Python**: Core analysis
