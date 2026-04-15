@@ -57,4 +57,4 @@ Using boxplots, we can see how winning margins differ across the top 10 stadiums
 - `*.png`: 11 high-resolution plots generated during the EDA process.
 
 ---
-**Created by Sanket Chimaji Gawate** *Day 3 of the 30-Day Data Science Journey*
+
