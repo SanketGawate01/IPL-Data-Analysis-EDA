@@ -20,21 +20,21 @@ While looking at total wins shows historical dominance, the **Win Percentage** r
 
 | Total Wins per Team | Win Percentage by Team |
 | :---: | :---: |
-| ![Total Wins](./01_total_wins.png) | ![Win %](./08_team_win_percentage.png) |
+| ![Total Wins](./visualization/01_total_wins.png) | ![Win %](./visualization/08_team_win_percentage.png) |
 
 ### 2. The Toss Factor
 Captains almost always prefer to field first, but the outcome of the match remains highly competitive regardless of who wins the coin toss.
 
 | Toss Decision Frequency | Toss Win vs. Match Win |
 | :---: | :---: |
-| ![Toss Decision](./03_toss_decision.png) | ![Toss Impact](./04_toss_impact_logic.png) |
+| ![Toss Decision](./visualization/03_toss_decision.png) | ![Toss Impact](./visualization/04_toss_impact_logic.png) |
 
 ### 3. Venue & Historical Trends
 Using boxplots, we can see how winning margins differ across the top 10 stadiums in India, alongside how the league has grown season by season.
 
 | Winning Margin by Venue | Matches Played per Season |
 | :---: | :---: |
-| ![Venue Boxplot](./06_venue_boxplot.png) | ![Growth Chart](./10_matches_per_season.png) |
+| ![Venue Boxplot](./visualization/06_venue_boxplot.png) | ![Growth Chart](./visualization/10_matches_per_season.png) |
 
 ---
 
